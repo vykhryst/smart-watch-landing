@@ -25,7 +25,7 @@ if ($name === '') {
             j.src =
                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M9GBBGVS');
+        })(window, document, 'script', 'dataLayer', 'YOUR_GTM_ID');
     </script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,7 +35,7 @@ if ($name === '') {
 
 <body class="thanks-body">
 
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9GBBGVS"
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=YOUR_GTM_ID"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="thanks-wrapper">

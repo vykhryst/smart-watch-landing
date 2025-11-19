@@ -21,7 +21,7 @@
             j.src =
                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M9GBBGVS');
+        })(window, document, 'script', 'dataLayer', 'YOUR_GTM_ID');
     </script>
     <!-- End Google Tag Manager -->
 
@@ -31,7 +31,7 @@
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9GBBGVS"
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=YOUR_GTM_ID"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
